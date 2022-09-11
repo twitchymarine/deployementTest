@@ -1,0 +1,1 @@
+echo "This is service B" >> /tmp/diditworkB.txt
